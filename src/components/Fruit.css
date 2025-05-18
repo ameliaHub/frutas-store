@@ -1,0 +1,25 @@
+.fruit {
+  background-color: rgb(246, 244, 244);
+  padding: 100px;
+  border-radius: 10px;
+  position: relative;
+  flex: 1 1 200px; /* crece, se reduce, base: 200px */
+
+  max-width: 250px;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+}
+
+.fruit-name {
+  position: absolute;
+  left: 20px;
+  bottom: 20px;
+  font-weight: bold;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 25px;
+}
+
+.fruit-img {
+  scale: 40%;
+}

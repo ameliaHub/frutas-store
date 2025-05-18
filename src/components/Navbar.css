@@ -1,0 +1,54 @@
+.navbar-container {
+}
+
+.navbar-btn {
+  border: none;
+  background-color: white;
+  font-size: 25px;
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: bold;
+}
+
+#logo {
+  font-size: 40px;
+  margin-right: 30px;
+}
+
+.navbar-btn:hover {
+  cursor: pointer;
+}
+
+.navbar-link:hover {
+  text-decoration: underline;
+  text-underline-offset: 25px;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 50px;
+
+  align-items: center;
+}
+
+.navbar-left {
+  display: flex;
+  gap: 15px;
+  align-items: center;
+}
+
+.navbar-right {
+  display: flex;
+  gap: 15px;
+  align-items: center;
+}
+
+#fav-items {
+  font-size: 35px;
+  cursor: pointer;
+}
+
+#cart-items {
+  font-size: 35px;
+  cursor: pointer;
+}

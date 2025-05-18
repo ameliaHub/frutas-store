@@ -1,0 +1,114 @@
+[
+  {
+    "name": "Banana",
+    "image": "/assets/images/banana.png",
+    "description": "Los plátanos son frutas alargadas y curvadas con una piel gruesa y amarilla que se pela fácilmente para revelar una pulpa suave y cremosa. Tienen un sabor dulce con sutiles notas de vainilla y una textura cremosa. Los plátanos son ricos en azúcares naturales, lo que los convierte en una opción popular para picar, hornear y preparar batidos.",
+    "price": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Cereza",
+    "image": "/assets/images/cereza.png",
+    "description": "Las cerezas son frutas pequeñas y redondas con una piel brillante que puede variar en color desde un rojo intenso hasta un púrpura oscuro. Tienen un sabor dulce y ácido con un toque de acidez. Las cerezas se consumen comúnmente frescas como tentempié o se utilizan en postres, mermeladas y bebidas.",
+    "price": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Coco",
+    "image": "/assets/images/coco.png",
+    "description": "Los cocos son frutas grandes y marrones con una cáscara dura y peluda, y una pulpa blanca y dulce en su interior. Tienen un sabor tropical y ligeramente dulce, con una textura rica y cremosa. Los cocos se utilizan de diversas formas, como agua de coco fresca, leche de coco, coco rallado y aceite de coco. Son un ingrediente básico en muchos platos y postres tropicales.",
+    "price": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Frambuesa",
+    "image": "/assets/images/frambuesa.png",
+    "description": "Las uvas son frutas pequeñas, redondas o con forma ovalada que crecen en racimos en vides. Se presentan en varios colores, como verde, rojo y púrpura. Las uvas tienen una pulpa dulce y jugosa con una ligera acidez, y su sabor puede variar según la variedad. Se consumen comúnmente frescas como tentempié, en ensaladas o procesadas para hacer zumos, vinos y pasas.",
+    "price": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Fresa",
+    "image": "/assets/images/fresa.png",
+    "description": "Las fresas son frutas con forma de corazón, de color rojo brillante y pequeñas semillas que cubren su superficie. Tienen un sabor dulce y ligeramente ácido, con una pulpa jugosa y aromática. Las fresas son muy populares en postres, ensaladas, batidos y mermeladas debido a su delicioso sabor y su color vibrante.",
+    "price": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Kiwi",
+    "image": "/assets/images/kiwi.png",
+    "description": "El kiwi, también conocido como actinidia o grosella china, es una fruta pequeña y ovalada con una piel marrón y peluda, y una pulpa verde vibrante con pequeñas semillas negras. El kiwi tiene un sabor dulce y ácido con notas tropicales que recuerdan a las fresas y los melones. Se consume comúnmente fresco, en rodajas, o se utiliza en ensaladas de frutas, batidos y postres.",
+    "price": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Limón",
+    "image": "/assets/images/limon.png",
+    "description": "Los limones son frutas cítricas pequeñas y amarillas con un sabor ácido y brillante. Tienen un sabor ácido que puede variar desde ligeramente agrio hasta intensamente ácido, dependiendo de la madurez de la fruta. Los limones se utilizan comúnmente para agregar acidez y frescura a platos, bebidas y postres.",
+    "price": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Mango",
+    "image": "/assets/images/mango.png",
+    "description": "Los mangos son frutas tropicales con una piel suave de color amarillo dorado y una pulpa jugosa y dulce que rodea una gran semilla plana. Tienen una textura rica y cremosa y un perfil de sabor complejo que combina dulzura con acidez y toques de sabores tropicales como durazno, piña y cítricos. Los mangos se consumen comúnmente frescos o se utilizan en batidos, ensaladas, salsas y postres.",
+    "price": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Manzana",
+    "image": "/assets/images/manzana.png",
+    "description": "Las manzanas rojas son una de las variedades más comunes de manzanas. Tienen una piel roja brillante y una pulpa crujiente y jugosa. Las manzanas rojas suelen tener un perfil de sabor equilibrado, combinando dulzura con un toque de acidez. Son versátiles y se pueden comer frescas, usar en la cocina o prensar para hacer jugo.",
+    "price": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Melocotón",
+    "image": "/assets/images/melocoton.png",
+    "description": "Los duraznos son frutas suaves y peludas con una pulpa dulce y jugosa que varía en color desde amarillo hasta naranja. Tienen un sabor rico y aromático con toques florales y tropicales. Los duraznos se consumen comúnmente frescos o se utilizan en postres como tartas, cobblers y conservas.",
+    "price": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Melón",
+    "image": "/assets/images/melon.png",
+    "description": "El melón es un término amplio que se refiere a varias frutas de la familia de las calabazas, incluyendo el cantalupo, la miel, y la sandía. Los melones se caracterizan por su pulpa dulce y jugosa y su sabor refrescante. Los cantalupos tienen un sabor dulce y ligeramente almizclado, los melones miel suelen ser más dulces con un sutil sabor a miel, y las sandías tienen una textura crujiente y un sabor muy dulce con un toque de frescura.",
+    "price": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Naranja",
+    "image": "/assets/images/naranja.png",
+    "description": "Las mandarinas son frutas cítricas pequeñas que son similares en apariencia a las naranjas, pero son más pequeñas y tienen una piel más delgada y fácil de pelar. Son típicamente dulces con un sabor ligeramente ácido, y suelen ser más jugosas que las naranjas. Las mandarinas tienen un aroma distintivo y un color naranja brillante.",
+    "price": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Pera",
+    "image": "/assets/images/pera.png",
+    "description": "Las peras son frutas dulces y jugosas con una forma distintiva similar a una campana y una piel suave que puede variar en color desde verde hasta amarillo y rojo. Tienen un sabor delicado y floral con un toque de dulzura y una sutil textura granulada. Las peras se pueden disfrutar frescas o utilizar en postres, ensaladas y platos salados.",
+    "price": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Piña",
+    "image": "/assets/images/pina.png",
+    "description": "Las piñas son frutas tropicales caracterizadas por su piel áspera y espinosa y su pulpa dulce y jugosa. Tienen un color amarillo vibrante y un sabor distintivamente dulce y ácido con toques de notas tropicales. Las piñas se pueden disfrutar frescas, exprimidas, asadas o incorporadas tanto en platos dulces como salados.",
+    "price": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Sandía",
+    "image": "/assets/images/sandia.png",
+    "description": "Watermelon is a large, round fruit with a thick green rind and juicy, red flesh dotted with black seeds (although seedless varieties are also common). Watermelons have a high water content, making them incredibly hydrating and refreshing. Their flavor is sweet and slightly tangy, with a crisp texture.",
+    "price": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Tomate",
+    "image": "/assets/images/tomate.png",
+    "description": "Aunque comúnmente se les confunde con una verdura, los tomates son técnicamente frutas. Vienen en varios colores, incluyendo rojo, amarillo, naranja e incluso morado, y tienen una piel suave y brillante. Los tomates tienen un sabor ligeramente dulce y ácido con una pulpa jugosa y un sabor ligeramente ácido. Son versátiles y se usan en ensaladas, salsas, sopas, sándwiches y muchos otros platos.",
+    "price": 1,
+    "quantity": 1
+  }
+]

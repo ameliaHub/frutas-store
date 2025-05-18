@@ -1,0 +1,38 @@
+.carousel-and-btn-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.carousel {
+  display: flex;
+  gap: 20px;
+}
+
+.carousel-btn {
+  border: none;
+  background: none;
+  cursor: pointer;
+  font-size: 30px;
+}
+
+.carousel-fruit {
+  background-color: rgb(246, 244, 244);
+  padding: 80px;
+  border-radius: 10px;
+  position: relative;
+}
+
+.carousel-fruit-name {
+  position: absolute;
+  left: 20px;
+  bottom: 20px;
+  font-weight: bold;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 25px;
+}
+
+.carousel-fruit-img {
+  scale: 60%;
+}

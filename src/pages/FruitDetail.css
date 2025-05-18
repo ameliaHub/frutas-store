@@ -1,0 +1,63 @@
+.fruit-detail-container {
+  display: flex;
+  align-items: center;
+
+  justify-content: center;
+  height: calc(100vh - 158.8px);
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.fruit-detail {
+  display: flex;
+  gap: 50px;
+}
+
+.fruit-info-container {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+.detail-fruit-img {
+  background-color: rgb(246, 244, 244);
+  padding: 250px;
+  border-radius: 10px;
+}
+
+.detail-fruit-name {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.detail-fruit-description {
+  font-size: 25px;
+  line-height: 35px;
+}
+
+.detail-btns-container {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.detail-btn {
+  background: none;
+  padding: 25px;
+  border-radius: 10px;
+  cursor: pointer;
+  max-width: 500px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+#detail-buy-btn {
+  background-color: rgb(56, 149, 255);
+  color: white;
+  border: none;
+}
+
+#detail-cart-btn {
+  border: solid 1px #ccc;
+}
